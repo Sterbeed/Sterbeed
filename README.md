@@ -8,7 +8,7 @@ Currently learning
 - Java
 ----------------------
 Ill be posting my progress here
-
+You can find the code in the out folder
 
 Java - Slotmachine is a slot machine game where I test of the randomize syntax - Still being worked on!
 
