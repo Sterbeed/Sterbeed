@@ -1,17 +1,10 @@
-You can call me Moe.
-First year CS student.
+YHello Im Mohamed Mohamed.
+Second year CS student.
 ----------------------
 Currently can code in
 - Python
-
-Currently learning
 - Java
+- C#
+- JavaScript
 ----------------------
-Ill be posting my progress here
-You can find the code in the out folder
 
-Java - Slotmachine is a slot machine game where I test of the randomize syntax - Still being worked on!
-
-Java - MethodTest is as the name suggest is where I test out how to properly use methods and how they work - Still being worked on!
-
-----------------------
